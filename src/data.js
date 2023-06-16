@@ -23,10 +23,5 @@ export const data = [
     type: 'image',
     path: "/file-server/IMG_0260.jpg"
   },
-   {
-    id: 5,
-    name: 'Video File',
-    type: 'video',
-    path: "/file-server/IMG_0265.MOV"
-  },
+  
 ]
